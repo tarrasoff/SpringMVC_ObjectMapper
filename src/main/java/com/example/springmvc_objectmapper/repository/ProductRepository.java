@@ -1,4 +1,4 @@
-package com.example.springmvc_objectmapper;
+package com.example.springmvc_objectmapper.repository;
 
 import com.example.springmvc_objectmapper.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
